@@ -1,4 +1,4 @@
-# Microsite Backend FastAPI Project
+# Backend FastAPI Project
 
 ## How to setup project?
 
