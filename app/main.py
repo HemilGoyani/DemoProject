@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return "Demo-Project"
+    return "Demo-Project"   
 
 app.include_router(user_management.router)
 app.include_router(users.router)
